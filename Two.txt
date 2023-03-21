@@ -1,0 +1,4 @@
+#!/bin/bash
+
+Echo"Hi Mani Kantan"
+Mkdir NewFile.txt
